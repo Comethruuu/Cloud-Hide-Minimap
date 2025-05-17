@@ -6,7 +6,6 @@
 ## Features
 - Automatically hides the radar when the player is in any vehicle.
 - Shows the radar again when the player exits the vehicle.
-- Lightweight and easy to integrate into your ESX server.
 - Compatible with all vehicle types.
 - Does not interfere with radar functionality while on foot.
 
