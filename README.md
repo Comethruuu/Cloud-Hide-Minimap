@@ -1,7 +1,7 @@
-# ESX Hide Radar
+# Cloud Hide Minimap
 
 ## Description
-`ESX Hide Minimap ` is a simple script for FiveM ESX servers that automatically hides the radar/minimap when the player is inside a vehicle. This improves gameplay immersion by providing a cleaner screen and reducing distractions while driving.
+`Cloud Hide Minimap` is a simple script for FiveM ESX servers that automatically hides the radar/minimap when the player is inside a vehicle. This improves gameplay immersion by providing a cleaner screen and reducing distractions while driving.
 
 ## Features
 - Automatically hides the radar when the player is in any vehicle.
@@ -14,10 +14,10 @@
 
 1. Download or clone this repository into your server’s `resources` folder:
    ```bash
-   git clone https://github.com/username/esx-hide-radar.git
-   bash```
+   git clone https://github.com/Comethruuu/Cloud-Hide-Minimap.git
+   ```
 2. Add the following line to your server.cfg to start the resource:
    ```bash
-   start esx-hide-radar
-   bash```
+   start cloud-hideminimap
+   ```
 
