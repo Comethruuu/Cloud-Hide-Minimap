@@ -20,7 +20,7 @@
    start Cloud-Hide-Minimap
    ```
 
-   ## Preview
+## Preview
 1. Off Radar
    ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273780562038874/Screenshot_2025-05-17_190947.png?ex=6829d05f&is=68287edf&hm=82f3476e6a66530fd979db6eaf28cd06f1b8d622a0eefdd1e6d5fc1fc9f2db1a&)
 2. On Radar (In Vehicle)
