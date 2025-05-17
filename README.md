@@ -17,6 +17,6 @@
    ```
 2. Add the following line to your server.cfg to start the resource:
    ```bash
-   start cloud-hideminimap
+   start Cloud-Hide-Minimap
    ```
 
