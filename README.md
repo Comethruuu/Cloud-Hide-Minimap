@@ -22,9 +22,9 @@
 
 ## Preview
 1. Off Radar
-   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273780562038874/Screenshot_2025-05-17_190947.png?ex=6829d05f&is=68287edf&hm=82f3476e6a66530fd979db6eaf28cd06f1b8d622a0eefdd1e6d5fc1fc9f2db1a&)
+   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273780562038874/Screenshot_2025-05-17_190947.png?ex=6835051f&is=6833b39f&hm=12dd642345b329fa80fd61d32d0273ccbd4d0fc2d893938131097806e70815b7&)
 2. On Radar (In Vehicle)
-   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273781468135444/Screenshot_2025-05-17_190959.png?ex=6829d05f&is=68287edf&hm=77c5d5f12f3f2c6f7ed6e588b77d89bebd7e8effd457183b4aae2fa0ce61a16b&)
+   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273781468135444/Screenshot_2025-05-17_190959.png?ex=6835051f&is=6833b39f&hm=f3d5cdf11acea5de108ed3de35ff61e177b62e5a65d4407b8cf1c60b5f5db056&)
 
 ## 🧑‍💻 Author
 
