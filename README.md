@@ -1,4 +1,4 @@
-# Cloud Hide Minimap FiveM [ESX / QB Core]
+# Cloud Hide Minimap FiveM [ESX / QB Core / Standalone]
 
 ## Description
 `Cloud Hide Minimap` is a simple script for FiveM ESX servers that automatically hides the radar/minimap when the player is inside a vehicle. This improves gameplay immersion by providing a cleaner screen and reducing distractions while driving.
@@ -22,9 +22,9 @@
 
 ## Preview
 1. Off Radar
-   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273780562038874/Screenshot_2025-05-17_190947.png?ex=6835051f&is=6833b39f&hm=12dd642345b329fa80fd61d32d0273ccbd4d0fc2d893938131097806e70815b7&)
+   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273780562038874/Screenshot_2025-05-17_190947.png?ex=6844d71f&is=6843859f&hm=90a96dc23c65ef54650484bedfafa0865f140b5bfb8573d0f61e565065c3a7a7&)
 2. On Radar (In Vehicle)
-   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273781468135444/Screenshot_2025-05-17_190959.png?ex=6835051f&is=6833b39f&hm=f3d5cdf11acea5de108ed3de35ff61e177b62e5a65d4407b8cf1c60b5f5db056&)
+   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273781468135444/Screenshot_2025-05-17_190959.png?ex=6844d71f&is=6843859f&hm=5e5368ff970d35a7e69fcbd301e99c10fcf27c0f59a4a6f545a594fee92d67a4&)
 
 ## 🧑‍💻 Author
 
