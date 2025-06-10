@@ -1,7 +1,5 @@
 # 🚀 Cloud-Hide-Minimap — FiveM Script 
 
-**Cloud Hide Minimap** is a simple script for FiveM ESX servers that automatically hides the radar/minimap when the player is inside a vehicle. This improves gameplay immersion by providing a cleaner screen and reducing distractions while driving.
-
 ## 🌄 Features
 - Automatically hides the radar when the player is in any vehicle.
 - Shows the radar again when the player exits the vehicle.
