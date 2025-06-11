@@ -19,9 +19,9 @@
 
 ## 🌟 Preview
 1. Off Radar
-   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273780562038874/Screenshot_2025-05-17_190947.png?ex=6844d71f&is=6843859f&hm=90a96dc23c65ef54650484bedfafa0865f140b5bfb8573d0f61e565065c3a7a7&)
+   ![Preview](https://imgur.com/dIrRzcd.png)
 2. On Radar (In Vehicle)
-   ![Preview](https://cdn.discordapp.com/attachments/1157215462225084428/1373273781468135444/Screenshot_2025-05-17_190959.png?ex=6844d71f&is=6843859f&hm=5e5368ff970d35a7e69fcbd301e99c10fcf27c0f59a4a6f545a594fee92d67a4&)
+   ![Preview](https://imgur.com/kt1Meg3.png)
 
 ## 🧑‍💻 Author
 
